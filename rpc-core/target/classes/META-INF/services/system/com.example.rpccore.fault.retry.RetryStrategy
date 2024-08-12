@@ -1,0 +1,2 @@
+no=com.example.rpccore.fault.retry.NoRetryStrategy
+fixedInterval=com.example.rpccore.fault.retry.FixedIntervalRetryStrategy

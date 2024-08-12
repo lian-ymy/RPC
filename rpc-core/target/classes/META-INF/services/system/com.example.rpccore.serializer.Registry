@@ -1,0 +1,2 @@
+etcd=com.example.rpccore.registry.EtcdRegistry
+zookeeper=com.example.rpccore.registry.ZooKeeperRegistry

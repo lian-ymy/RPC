@@ -1,0 +1,4 @@
+jdk=com.example.rpccore.serializer.JdkSerializer
+hessian=com.example.rpccore.serializer.HessianSerializer
+json=com.example.rpccore.serializer.JsonSerializer
+kryo=com.example.rpccore.serializer.KryoSerializer
